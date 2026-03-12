@@ -1,0 +1,19 @@
+
+body { font-family: Arial; background: #f2f2f2; margin: 0; padding: 0; }
+.container { padding: 20px; max-width: 1000px; margin: auto; background: white; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+.btn { padding: 10px 15px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-right: 10px; }
+.btn.secondary { background: gray; }
+.btn.danger { background: red; }
+input, select { width: 100%; padding: 10px; margin: 10px 0; }
+button { padding: 10px 15px; background: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+table, th, td { border: 1px solid #ccc; }
+th, td { padding: 10px; text-align: left; }
+.status { font-weight: bold; }
+.status.available { color: green; }
+.status.in-use { color: orange; }
+.status.charging { color: blue; }
+.status.maintenance { color: red; }
+.login-page { display: flex; height: 100vh; justify-content: center; align-items: center; }
+.login-container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); width: 300px; }
+.login-container input { width: 100%; padding: 10px; margin: 10px 0; }
