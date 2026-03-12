@@ -19,4 +19,4 @@ The Battery Inventory Management System is a web application designed to manage 
 ## Requirements
 - Python 3.x
 - Flask and required packages
-- Web browser
+
