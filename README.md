@@ -1,4 +1,4 @@
-# Internship
+
 # Battery Inventory Management System
 
 ## Overview
